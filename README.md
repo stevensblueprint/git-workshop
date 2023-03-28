@@ -1,7 +1,5 @@
 # Git Workshop
 
-Sure! Here's a rewording that might make the instructions clearer:
-
 Welcome to the Stevens Blueprint community! This exercise is designed to help you get comfortable with using Git and GitHub, which are important tools for software development.
 
 For this exercise, you will need to complete three steps:
