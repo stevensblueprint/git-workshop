@@ -39,7 +39,7 @@ Replace `<branch-name>` with a descriptive name for your new branch.
 
 ## Step 4: Make Changes to the HTML File
 
-Now that you have created a new branch, you can make changes to the HTML file. Open the file in your favorite text editor and make your changes.
+Create an html file and put some content on it!
 
 ## Step 5: Commit and Push Your Changes
 
