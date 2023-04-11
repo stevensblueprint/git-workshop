@@ -1,5 +1,7 @@
 # Git Workshop
 
+Jedd Alcalde
+
 Welcome to the Stevens Blueprint community! This exercise is designed to help you get comfortable with using Git and GitHub, which are important tools for software development.
 
 This tutorial will guide you through the process of using Git to edit an HTML file. By following these steps, you will learn how to create a new branch, make changes to a file, commit those changes, and push them to a remote repository.
