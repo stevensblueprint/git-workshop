@@ -60,6 +60,12 @@ Replace `<commit-message>` with a brief description of the changes you made.
 ```git push origin <branch-name>```
 Replace `<branch-name>` with the name of the branch you created in Step 3.
 
+## Step 6: Make a pull request
+
+1. Go to the repository on the web browser and click on the "Pull requests" tab. 
+2. Click make pull request
+
+
 ## Conclusion
 
 Congratulations! You have successfully used Git to edit an HTML file. This tutorial covered the basics of forking a repository, cloning a repository, creating a new branch, making changes to a file, committing those changes, and pushing them to a remote repository.
