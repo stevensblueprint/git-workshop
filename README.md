@@ -36,12 +36,12 @@ To create a new branch:
 
 1. Navigate to the cloned repository directory in your terminal
 2. Run the following command:
-```git checkout -b <branch-name>```
-Replace `<branch-name>` with a descriptive name for your new branch.
+```git checkout -b feature/yourName```
+Replace `yourName` with your first name. So your full branch name could be ```feature/shawn```.
 
 ## Step 4: Make Changes to the HTML File
 
-Create an html file and put some content on it!
+Edit the H1 tag in the index.html to be your name! Simple as that.
 
 ## Step 5: Commit and Push Your Changes
 
@@ -52,13 +52,13 @@ To commit and push your changes:
 1. Navigate to the cloned repository directory in your terminal
 2. Run the following command to stage your changes:
 ```git add <file-name>```
-Replace `<file-name>` with the name of the HTML file you edited.
+Replace `<file-name>` with the name of the HTML file you edited. You can also just use `.` instead of chooseing a specific `file-name`. This adds all changed files to be staged to commit so use it wisely. 
 3. Run the following command to commit your changes:
 ```git commit -m "<commit-message>"```
-Replace `<commit-message>` with a brief description of the changes you made.
+Replace `<commit-message>` with a brief description of the changes you made. Like `added my name to the html`
 4. Run the following command to push your changes to the remote repository:
 ```git push origin <branch-name>```
-Replace `<branch-name>` with the name of the branch you created in Step 3.
+Replace `<branch-name>` with the name of the branch you created in Step 3. For example, `git push origin feature/shawn`
 
 ## Step 6: Make a pull request
 
@@ -68,7 +68,7 @@ Replace `<branch-name>` with the name of the branch you created in Step 3.
 
 ## Conclusion
 
-Congratulations! You have successfully used Git to edit an HTML file. This tutorial covered the basics of forking a repository, cloning a repository, creating a new branch, making changes to a file, committing those changes, and pushing them to a remote repository.
+Congratulations! You have successfully used Git to edit an HTML file. This tutorial covered the basics of forking a repository, cloning the repo, creating a new branch, making changes to a file, committing those changes, and pushing them to a remote repository. When working on a project with others, it will be a slightly different and easier (IMO) experience but if you understand what's going on here you're all good. Feel free to ask any questions if you get confused. 
 
 
 
