@@ -1,6 +1,6 @@
 # Git Workshop
 
-Jedd Alcalde
+Joy Khera
 
 Welcome to the Stevens Blueprint community! This exercise is designed to help you get comfortable with using Git and GitHub, which are important tools for software development.
 
