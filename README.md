@@ -1,7 +1,5 @@
 # Git Workshop
 
-Jedd Alcalde
-
 Welcome to the Stevens Blueprint community! This exercise is designed to help you get comfortable with using Git and GitHub, which are important tools for software development.
 
 This tutorial will guide you through the process of using Git to edit an HTML file. By following these steps, you will learn how to create a new branch, make changes to a file, commit those changes, and push them to a remote repository.
@@ -63,20 +61,12 @@ Replace `<branch-name>` with the name of the branch you created in Step 3. For e
 ## Step 6: Make a pull request
 
 1. Go to the repository on the web browser and click on the "Pull requests" tab. 
-2. Click make pull request
+	- For this exercise, we are asking you to make the "Pull Request", often referred to as "PR", from the feature branch. No need to merge with main first for this exercise.
+2. Click make Pull Request
 
 
 ## Conclusion
 
-Congratulations! You have successfully used Git to edit an HTML file. This tutorial covered the basics of forking a repository, cloning the repo, creating a new branch, making changes to a file, committing those changes, and pushing them to a remote repository. When working on a project with others, it will be a slightly different and easier (IMO) experience but if you understand what's going on here you're all good. Feel free to ask any questions if you get confused. 
+Congratulations! You have successfully used Git to edit an HTML file. This tutorial covered the basics of forking a repository, cloning the repo, creating a new branch, making changes to a file, committing those changes, and pushing them to a remote repository. 
 
-
-
-
-
-
-
-
-
-
-
+When working on a project with others, it will be a slightly different and easier (IMO) experience but if you understand what's going on here you're all good. Feel free to ask any questions if you get confused. 
