@@ -53,7 +53,7 @@ To commit and push your changes:
 Replace `<file-name>` with the name of the HTML file you edited. You can also just use `.` instead of chooseing a specific `file-name`. This adds all changed files to be staged to commit so use it wisely. 
 3. Run the following command to commit your changes:
 ```git commit -m "<commit-message>"```
-Replace `<commit-message>` with a brief description of the changes you made. Like `added my name to the html`
+We usually replace `<commit-message>` with a brief description of the changes you make. For this case you can make it `Pull Request - Your Name`
 4. Run the following command to push your changes to the remote repository:
 ```git push origin <branch-name>```
 Replace `<branch-name>` with the name of the branch you created in Step 3. For example, `git push origin feature/shawn`
